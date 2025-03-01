@@ -10,16 +10,32 @@
 <p align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="150" height="150"/> </a> 
 <p align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="150" height="150"/> </a> 
   <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150" height="150"/> </a> </p>
----
 
-## Experience  
-### Power BI Developer- Texila Consortium  
-**November 2020 - Present**  
-- Developed interactive Power BI dashboards for sales analysis.  
-- Collaborated with cross-functional teams to gather data requirements.  
-- Optimized data models for performance efficiency.  
+<h3><b>Experience</b></h3>  
+<h4><b>Power BI Developer- Texila Consortium</b></h4>  
+<h4><b>November 2020 - Present</b></h3>  
+<p>Knowledge in Data Mining, Maintaining Databases, Data Preparation, Quality Assurance and Collaboration, Maintaining the confidentiality and preparing reports.</p>
+<p>Knowledge of data visualization software like Tableau, Power BI.</p>
+<p>Design and Implementation of quality systems in alignment with relevant policies and process.</p>
+<p>Process services reviews, Identify defects and errors.</p>
+<p>Monitor efforts to resolve service issues and track progress.</p>
+<p>Spot areas for improvement to enhance the service's efficiency.</p>
+<p>Filter Data by reviewing reports and performance indicators to identify and correct problems.</p>
+<p>Using statistical tools to identify, analyze, and interpret patterns and trends in complex data sets that could be helpful for the diagnosis and prediction.</p>
+<p>Assigning numerical value to essential business functions so that business performance can be assessed and compared over periods of time.</p>
+<p>Preparing final analysis reports for the stakeholders to understand the data-analysis steps, enabling them to take important decisions based on various facts and trend.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4><b>Technosoft Global Services Pvt Ltd</b></h4>  
+<h4><b>March 2019 - November 2020</b></h3>  
+<p>Annotate and label image, video and text data via computer using various internal software programs</p>
+<p>Tackle incoming tasks within a short timeframe</p>
+<p>Attach metadata (comments, markups, etc.) to image, video and text data in accordance with established procedures and precise instructions</p>
+<p>Provide feedback to customers if data is noisy or instructions are unclear</p>
+<p>Provide constructive feedback to our engineers on tooling and processes for more efficient labelling, and to improve data quality</p>
+<p>Evaluate metrics to help improve our productivity</p>
+<p>Collaborate with other annotation specialists and help out with questions</p>
 
----
 
 ## Projects  
 ### [Sales Dashboard](https://github.com/yourusername/sales-dashboard)  
