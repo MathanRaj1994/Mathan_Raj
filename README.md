@@ -37,12 +37,6 @@
 <p>Collaborate with other annotation specialists and help out with questions</p>
 
 
-## Projects  
-### [Sales Dashboard](https://github.com/yourusername/sales-dashboard)  
-Created an interactive Power BI dashboard that visualizes sales trends, customer segmentation, and product performance.  
-
----
-
 <P><b><h2>Personal Details</h2></b></P> 
 <p align="left">
 <a href="Nanjanapuram" target="_blank"><img align="center" src="https://www.svgrepo.com/show/10010/location-on-map.svg" alt="Nanjanapuram" height="40" width="40"/>
@@ -58,4 +52,5 @@ Created an interactive Power BI dashboard that visualizes sales trends, customer
 <a href="https://github.com/MathanRaj1994" target="_blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="https://github.com/MathanRaj1994" height="40" width="40"/></a><a> :-</a> <a href="https://github.com/MathanRaj1994">MathanRaj1994</a></p>
 </p>
 
-&copy; 2025 Mathanraj
+
+<p align="center">&copy; 2025 Mathanraj</p>
