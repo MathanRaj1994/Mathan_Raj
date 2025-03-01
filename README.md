@@ -35,8 +35,8 @@
 <p>Provide constructive feedback to our engineers on tooling and processes for more efficient labelling, and to improve data quality</p>
 <p>Evaluate metrics to help improve our productivity</p>
 <p>Collaborate with other annotation specialists and help out with questions</p>
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <P><b><h2>Personal Details</h2></b></P> 
 <p align="left">
 <a href="Nanjanapuram" target="_blank"><img align="center" src="https://www.svgrepo.com/show/10010/location-on-map.svg" alt="Nanjanapuram" height="40" width="40"/>
