@@ -42,4 +42,4 @@ Created an interactive Power BI dashboard that visualizes sales trends, customer
 <a href="https://github.com/MathanRaj1994" target="_blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="https://github.com/MathanRaj1994" height="40" width="40"/></a><a> :-</a> <a href="https://github.com/MathanRaj1994">MathanRaj1994</a></p>
 </p>
 
-&copy; 2025 Mathanraj | Designed with 💙
+&copy; 2025 Mathanraj
