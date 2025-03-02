@@ -1,5 +1,5 @@
 <h1 align="center">Mathan Raj Palanisamy</h1>
-<P align="center">Data Analyst | Power BI Enthusiast | Problem Solver | SQL</P>
+<P align="center">Data Analyst | Power BI | SSMS | Problem Solver | SQL</P>
 <h3 align="left">About Me:</h3>
 <p>I have 4+ years business professional as a Power BI Developer with excellent analytics skills, business requirements, problem solving and team leadership is looking to obtain a challenging position offering personal and professional growth. Able to play a key role in analyzing problems and come up with creative solutions as well as producing methodologies and files for effective data management. A quick learner who can absorb new ideas and can communicate clearly and effectively</p>
 
@@ -14,16 +14,16 @@
 <h3><b>Experience</b></h3>  
 <h4><b>Power BI Developer- Texila Consortium</b></h4>  
 <h4><b>November 2020 - Present</b></h3>  
-<p>Knowledge in Data Mining, Maintaining Databases, Data Preparation, Quality Assurance and Collaboration, Maintaining the confidentiality and preparing reports.</p>
-<p>Knowledge of data visualization software like Tableau, Power BI.</p>
-<p>Design and Implementation of quality systems in alignment with relevant policies and process.</p>
-<p>Process services reviews, Identify defects and errors.</p>
-<p>Monitor efforts to resolve service issues and track progress.</p>
-<p>Spot areas for improvement to enhance the service's efficiency.</p>
-<p>Filter Data by reviewing reports and performance indicators to identify and correct problems.</p>
-<p>Using statistical tools to identify, analyze, and interpret patterns and trends in complex data sets that could be helpful for the diagnosis and prediction.</p>
-<p>Assigning numerical value to essential business functions so that business performance can be assessed and compared over periods of time.</p>
-<p>Preparing final analysis reports for the stakeholders to understand the data-analysis steps, enabling them to take important decisions based on various facts and trend.</p>
+<p><b>Key Responsibilities:</b></p>
+<p>Designed and developed interactive dashboards and reports using Power BI to track and visualize business performance, enabling better decision-making.</p>
+<p>Created DAX calculations and optimized Power BI data models to improve dashboard performance and analytical efficiency.</p>
+<p>Wrote and optimized SQL queries for data extraction, transformation, and validation using SQL Server Management Studio (SSMS) to ensure accurate data representation.</p>
+<p>Automated reporting processes using Power Query and Advanced Excel techniques, reducing manual effort and improving efficiency.</p>
+<p>Collaborated with stakeholders to define key KPIs and business metrics, ensuring alignment with organizational goals and data-driven decision-making.</p>
+<p>Ensured data accuracy, integrity, and governance across multiple reporting systems, maintaining high-quality data standards.</p>
+<p>Developed custom Power BI dashboards to analyze structured and unstructured data, providing valuable insights for business growth and performance improvement.</p>
+<p>Designed and implemented SQL queries and stored procedures to support data retrieval, transformation, and reporting requirements.</p>
+<p>Conducted comprehensive data validation and cleansing to maintain high data quality, ensuring consistency and accuracy across reports.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><b>Technosoft Global Services Pvt Ltd</b></h4>  
@@ -37,18 +37,25 @@
 <p>Collaborate with other annotation specialists and help out with questions</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<P><b><h2>Soft Skills:</h2></b></P>
+<P><b>Problem-Solving & Critical Thinking</b> – Strong analytical skills for identifying trends and patterns.</P>
+<P><b>Stakeholder Communication</b> – Ability to translate complex data insights into business-friendly reports.</P>
+<P><b>Attention to Detail</b> – Ensuring data accuracy and quality across reporting systems.</P>
+<P><b>Collaboration & Teamwork</b> – Working effectively with cross-functional teams to drive data-driven decisions.</P>
+<P><b>Time Management</b> – Handling multiple projects and meeting deadlines efficiently.</P>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <P><b><h2>Personal Details</h2></b></P> 
 <p align="left">
 <a href="Nanjanapuram" target="_blank"><img align="center" src="https://www.svgrepo.com/show/10010/location-on-map.svg" alt="Nanjanapuram" height="40" width="40"/>
 <a> :-</a> <a href="Nanjanapuram">Nanjanapuram, Kathirampatti (P.O), Erode-638 107</p>
-
 <a href="mailto:mathanraj2894@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="mathanraj2894@gmail.com" height="40" width="40"/>
 <a> :-</a> <a href="mailto:mathanraj2894@gmail.com">mathanraj2894@gmail.com</p>
 </a> <a href="https://www.linkedin.com/in/mathan-raj-b35b53ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathan-raj-b35b53ab/" height="40" width="40" /></a>
 <a> :-</a> <a href="https://www.linkedin.com/in/mathan-raj-b35b53ab/">mathan-raj</p>
 <a href="+919080863397" target="_blank"><img align="center" src="https://www.svgrepo.com/show/223024/phone-call-telephone.svg" alt="+919080863397" height="40" width="40"/></a>
-<a> :-</a> <a href="tel:+919080863397">+919080863397</p>
-<a href="https://wa.me/+919080863397" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" alt="https://wa.me/+919080863397" height="40" width="40"/></a><a> :-</a> <a href="https://wa.me/+919080863397">919080863397</a></p>
+<a> :-</a> <a href="tel:+919080863397">+91 9080863397</p>
+<a href="https://wa.me/+919080863397" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" alt="https://wa.me/+919080863397" height="40" width="40"/></a><a> :-</a> <a href="https://wa.me/+919080863397">+91 9080863397</a></p>
 <a href="https://github.com/MathanRaj1994" target="_blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="https://github.com/MathanRaj1994" height="40" width="40"/></a><a> :-</a> <a href="https://github.com/MathanRaj1994">MathanRaj1994</a></p>
 </p>
 
