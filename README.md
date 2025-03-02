@@ -27,7 +27,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><b>Technosoft Global Services Pvt Ltd</b></h4>  
-<h4><b>March 2019 - November 2020</b></h3>  
+<h4><b>March 2019 - November 2020</b></h3>
+<p><b>Key Responsibilities:</b></p>
 <p>Annotate and label image, video and text data via computer using various internal software programs</p>
 <p>Tackle incoming tasks within a short timeframe</p>
 <p>Attach metadata (comments, markups, etc.) to image, video and text data in accordance with established procedures and precise instructions</p>
